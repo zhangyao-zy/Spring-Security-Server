@@ -1,0 +1,3 @@
+mybatis:
+  mapper-locations: classpath:com.zy.userSecurityServer.mapper/*.xml
+
